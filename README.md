@@ -24,7 +24,7 @@
 
 ---
 
-## 📁 Como baixar o projeto
+## 📁 Como baixar o projeto através do Git Bash
 
 <p>Siga estes passos para baixar o meu projeto 😁</p>
 
