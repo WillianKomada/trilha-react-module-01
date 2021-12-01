@@ -1,11 +1,3 @@
-<h1 align="center">
-  <img src="https://ik.imagekit.io/cucgno2zqys/logo-full_0hlWUYwox.svg">
-</h1>
-
-<h3 align="center">
-  <a href="https://moveit-wk.vercel.app/">Acesse o Projeto</a>
-</h3>
-
 # Índice
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
