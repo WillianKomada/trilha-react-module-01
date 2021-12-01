@@ -35,6 +35,9 @@ $ git clone https://github.com/WillianKomada/trilha-react-module-01.git
 # Entrar no diretório do projeto
 $ cd trilha-react-module-01
 
+# Para abrir o visual studio code
+$ code .
+
 # Instalar as dependências
 $ yarn install
 
