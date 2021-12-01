@@ -50,4 +50,5 @@ $ yarn dev
 <p>Imagem ilustrativa do projeto 😎 01/12/2021</p>
 
 - [ImageKit](https://imagekit.io/)
+
 <img src="https://ik.imagekit.io/cucgno2zqys/12_IXpZM1GKX.png?updatedAt=1638393904450" alt="Home Page">
