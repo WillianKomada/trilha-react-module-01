@@ -44,6 +44,6 @@ $ yarn dev
 
 ## 📷 Imagens do Projeto
 
-<p>Imagem ilustrativa do projeto 😎</p>
+<p>Imagem ilustrativa do projeto 😎 01/12/2021</p>
 
 <img src="https://ik.imagekit.io/cucgno2zqys/12_IXpZM1GKX.png?updatedAt=1638393904450" alt="Home Page">
