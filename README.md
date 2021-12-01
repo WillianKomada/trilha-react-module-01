@@ -24,7 +24,7 @@
 
 ---
 
-## 📁 Como baixar o projeto
+## 📁 Como baixar o projeto através do Git Bash
 
 <p>Siga estes passos para baixar o meu projeto 😁</p>
 
@@ -34,6 +34,9 @@ $ git clone https://github.com/WillianKomada/trilha-react-module-01.git
 
 # Entrar no diretório do projeto
 $ cd trilha-react-module-01
+
+# Para abrir o visual studio code
+$ code .
 
 # Instalar as dependências
 $ yarn install
